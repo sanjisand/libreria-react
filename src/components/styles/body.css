@@ -1,0 +1,8 @@
+.section-container{
+	position: relative;
+	z-index: 98;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width: 80%;
+	margin: 0 auto;
+}
